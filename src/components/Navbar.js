@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import farmer from '../farmer.png'
 
 class Navbar extends Component {
 
@@ -12,7 +11,6 @@ class Navbar extends Component {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={farmer} width="30" height="30" className="d-inline-block align-top" alt="" />
           &nbsp; DApp Token Farm
         </a>
 
