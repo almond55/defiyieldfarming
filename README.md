@@ -1,6 +1,8 @@
 # defiyieldfarming
 An example of defi yield farming and staking with Ethereum.
 
+From public tutorial ran by Dapp University.
+
 Requires 
 npm https://www.npmjs.com/get-npm
 truffle https://www.trufflesuite.com/docs/truffle/getting-started/installation
